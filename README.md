@@ -58,8 +58,8 @@
 
 ### 補足1
 
-- [Babel][3]
-- [webpack][4]
+- [Babel][4]
+- [webpack][3]
 
 ## Redux
 
