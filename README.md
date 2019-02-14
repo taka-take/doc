@@ -109,6 +109,12 @@
 - 今回は以下の書籍とサイトを参考にC#で実装
   - [参考１][1]
   - [参考２][2]
+  
+## 環境構築
+
+- プロジェクトテンプレートのダウンロード
+- テンプレートの構成
+- パッケージの更新
 
 [1]:https://www.oreilly.co.jp/books/9784873116860/
 [2]:https://tahirnaushad.com/2017/08/31/creating-crud-api-in-asp-net-core-2-0/
